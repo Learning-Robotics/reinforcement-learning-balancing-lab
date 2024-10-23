@@ -1,7 +1,5 @@
 # Learning a balancing policy
 
-Notebook to learn a balancing policy using SB3
+Notebook to learn a balancing policy for an inverted pendulum model using [SB3](https://stable-baselines3.readthedocs.io/en/master/).
 
-## See also
-
-A solution notebook lies in the ``solution`` branch. Try not to use it ;)
+Bonus questions extend the answers to [Upkie](https://github.com/upkie/upkie) wheeled bipeds.
